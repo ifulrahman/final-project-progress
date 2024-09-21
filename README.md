@@ -4,6 +4,9 @@
 - Belum responsive Design
 - Fitur yang sudah berprogress : login page, register page, landing page
 
+## Figma Design
+- Link : https://www.figma.com/design/LXos2tL990XhB3avltNII7/Travel-Day---Iful-Rahman?node-id=125-301&node-type=canvas&t=s2gtPJTpE54uVFoC-0
+
 ## Screenshots (Preview)
 
 <p align="center">
